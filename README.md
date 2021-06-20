@@ -18,3 +18,9 @@ I live in Bali, Indonesia. Love code since in forth grade of elementary school, 
 _This is not the programming languages that I mastered all, but from template / project_
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hendralize&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### Support me & my projects
+Like my work and want to support? [Buy Me a Coffee](https://www.buymeacoffee.com) or [Tip me via PayPal](https://www.paypal.com)
+
+[!["Buy Me A Coffee"](https://user-images.githubusercontent.com/1376749/120938564-50c59780-c6e1-11eb-814f-22a0399623c5.png)](https://www.buymeacoffee.com/hendralize)
+ [![Tip me via PayPal](https://cdn.jsdelivr.net/gh/twolfson/paypal-github-button@1.0.0/dist/button.svg)](https://www.paypal.me/hendralize)
