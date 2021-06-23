@@ -18,3 +18,10 @@ I live in Bali, Indonesia. Love code since in forth grade of elementary school, 
 _This is not the programming languages that I mastered all, but from template / project_
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hendralize&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+# Support me
+Like my work? Support me via Saweria! (Indonesian only)
+
+[![Saweria](assets/saweria.png)](https://saweria.co/hendralize)
+
+Thank you very much!
